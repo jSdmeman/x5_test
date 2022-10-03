@@ -1,0 +1,17 @@
+uvicorn
+fastapi
+aiohttp
+asyncio
+shortuuid
+python-dotenv
+sqlalchemy
+
+pydantic
+asyncpg
+psycopg2-binary
+
+celery[redis]
+gevent
+
+locust
+
